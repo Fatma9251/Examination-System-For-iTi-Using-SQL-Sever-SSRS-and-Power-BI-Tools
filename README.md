@@ -4,6 +4,8 @@
 
 This project involves the design and development of a comprehensive examination system, leveraging SQL Server for data management and Power BI for visualizing insights. The system was built from scratch, beginning with database modeling and schema design, followed by the automation of exam generation and correction processes. Reports and dashboards were then created to provide valuable insights into the performance of registered students.
 
+You can navigate and interact with the published dashboard on the **Power BI Services**: https://app.powerbi.com/view?r=eyJrIjoiYWQ3OGZmMWUtZDMzOS00ZGZiLWJjOWQtMWUwYjI1Y2U3ZTMzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 ## Key Components
 
 ### 1. **Database Design**
